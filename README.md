@@ -19,7 +19,7 @@ Since Python codes will be transferred to ast(abstract syntax tree) before it be
 ## Installation
 
 ```bash
-git clone <repository link>
+git clone "https://github.com/junyiacademy/func-deps-tracer.git"
 ```
 
 ## Usage
